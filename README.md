@@ -9,3 +9,7 @@ Average Wait Time by Department: Pinpointing areas for process improvements.
 Busiest Day and Time: Helping staff anticipate peak periods and manage workflows more effectively.
 Satisfaction Metrics: Highlighting areas where patient care can be enhanced.
 Summary Page for Patient Search: Enabling quick access to detailed patient information for personalized care.ency-Room-Dashboard-
+
+![Summary](https://github.com/user-attachments/assets/94416007-c6fc-4196-8464-3110e1cc443a)
+
+![dashboard](https://github.com/user-attachments/assets/9fbbc16a-072c-49bc-9cf7-b9bba51cc669)
